@@ -1,0 +1,5 @@
+package com.self.dao;
+
+public interface CourseDao {
+
+}
